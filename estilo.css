@@ -1,0 +1,47 @@
+body {
+  background: #d2d2c1 url("imagens/fundo.png");
+  }
+
+  #principal {
+    width: 900px;
+
+  }
+
+  #conteudo {
+    background-color: #F4F6F7;
+    padding: 10px;
+  }
+
+  #rodape {
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+  }
+
+  .menu {
+    padding: 18px;
+    background-color: #BDC3C7;
+  }
+
+a {
+  text-decoration: none;
+  color: #2C3E50;
+  font-weight: bold;
+  padding: 5px;
+}
+
+p {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+h1 {
+  color: #99A3A4;
+  font-size: 16px;
+  padding-left: 5px;
+}
+
+.imagens {
+  border: 9px solid #BDC3C7;
+  margin-left: 5px;
+}
